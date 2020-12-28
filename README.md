@@ -28,7 +28,27 @@ Flutter를 이용하여 App를 개발하였으며, 사용자가 사용하기 편
 - 앱은 사용자가 앱의 관광지 기능을 선택하면 서버로부터 DB에 관광지 정보 리스트를 요청한다.
 - 앱이 서버와 연결실패 때 오류 메시지를 보여준다.   
 
-## screnn shot
+## Screen Shot
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/44607643/103197598-b5f2b100-4929-11eb-97a8-0a2232e2fa70.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197641-d0c52580-4929-11eb-877f-0b3b14a04a12.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197652-d458ac80-4929-11eb-98b6-78bd2d1fcf4a.png">
+</div>
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197656-d6bb0680-4929-11eb-8ca8-c6060922db0d.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197666-d884ca00-4929-11eb-8f17-d604cc522f1a.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197669-da4e8d80-4929-11eb-870d-587aaa2dc459.png">
+</div>
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197673-dc185100-4929-11eb-8c0e-35169487cda7.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197676-dde21480-4929-11eb-8790-4da2af3bdcdf.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197681-dfabd800-4929-11eb-8271-d6cf4b8a1e81.png">
+</div>
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197684-e0dd0500-4929-11eb-9adb-cbb92bda4cf3.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197689-e2a6c880-4929-11eb-9f21-64642db0a130.png">
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197694-e4708c00-4929-11eb-9796-bc68d1973605.png">
+</div>
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/44607643/103197698-e63a4f80-4929-11eb-9cc2-dbc73808e976.png">
 </div>   
