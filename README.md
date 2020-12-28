@@ -28,10 +28,11 @@ Flutter를 이용하여 App를 개발하였으며, 사용자가 사용하기 편
 - 앱은 사용자가 앱의 관광지 기능을 선택하면 서버로부터 DB에 관광지 정보 리스트를 요청한다.
 - 앱이 서버와 연결실패 때 오류 메시지를 보여준다.   
 
-## Screen Shot
-| 실행 시 메인 화면 | 대피소 조회 화면 | 공공화장실 조회 화면 |
+## Screen Shot   
+
+|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197598-b5f2b100-4929-11eb-97a8-0a2232e2fa70.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197641-d0c52580-4929-11eb-877f-0b3b14a04a12.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197652-d458ac80-4929-11eb-98b6-78bd2d1fcf4a.png">|
 |-----------|-----------------|----------------|
-|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197598-b5f2b100-4929-11eb-97a8-0a2232e2fa70.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197641-d0c52580-4929-11eb-877f-0b3b14a04a12.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197652-d458ac80-4929-11eb-98b6-78bd2d1fcf4a.png">|   
+| 실행 시 메인 화면 | 대피소 조회 화면 | 공공화장실 조회 화면 |   
 
 | 공공화장실 상세정보 화면 | 병원 조회 화면 | 병원 상세 정보 |
 |-----------|-----------------|----------------|
