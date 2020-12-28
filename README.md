@@ -31,9 +31,7 @@ Flutter를 이용하여 App를 개발하였으며, 사용자가 사용하기 편
 ## Screen Shot
 | 열1 | 열2 | 열3 |
 |-----------|-----------------|----------------|
-|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197598-b5f2b100-4929-11eb-97a8-0a2232e2fa70.png">
-|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197641-d0c52580-4929-11eb-877f-0b3b14a04a12.png">
-|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197652-d458ac80-4929-11eb-98b6-78bd2d1fcf4a.png">|
+|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197598-b5f2b100-4929-11eb-97a8-0a2232e2fa70.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197641-d0c52580-4929-11eb-877f-0b3b14a04a12.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197652-d458ac80-4929-11eb-98b6-78bd2d1fcf4a.png">|
 |<img width="260" src="https://user-images.githubusercontent.com/44607643/103197656-d6bb0680-4929-11eb-8ca8-c6060922db0d.png">
 |<img width="260" src="https://user-images.githubusercontent.com/44607643/103197666-d884ca00-4929-11eb-8f17-d604cc522f1a.png">
 |<img width="260" src="https://user-images.githubusercontent.com/44607643/103197669-da4e8d80-4929-11eb-870d-587aaa2dc459.png">|
