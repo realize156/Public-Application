@@ -34,13 +34,15 @@ Flutter를 이용하여 App를 개발하였으며, 사용자가 사용하기 편
 |-----------|-----------------|----------------|
 | 실행 시 메인 화면 | 대피소 조회 화면 | 공공화장실 조회 화면 |   
 
-| 공공화장실 상세정보 화면 | 병원 조회 화면 | 병원 상세 정보 |
-|-----------|-----------------|----------------|
-|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197656-d6bb0680-4929-11eb-8ca8-c6060922db0d.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197666-d884ca00-4929-11eb-8f17-d604cc522f1a.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197669-da4e8d80-4929-11eb-870d-587aaa2dc459.png">|   
 
-| 관광지 지역 선택 화면 | 관광지 시군구 선택 화면 | 관광지 종류 선택 화면 |
 |-----------|-----------------|----------------|
-|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197673-dc185100-4929-11eb-8c0e-35169487cda7.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197676-dde21480-4929-11eb-8790-4da2af3bdcdf.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197681-dfabd800-4929-11eb-8271-d6cf4b8a1e81.png">|   
+|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197656-d6bb0680-4929-11eb-8ca8-c6060922db0d.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197666-d884ca00-4929-11eb-8f17-d604cc522f1a.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197669-da4e8d80-4929-11eb-870d-587aaa2dc459.png">|
+| 공공화장실 상세정보 화면 | 병원 조회 화면 | 병원 상세 정보 |      
+
+
+|-----------|-----------------|----------------|
+|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197673-dc185100-4929-11eb-8c0e-35169487cda7.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197676-dde21480-4929-11eb-8790-4da2af3bdcdf.png">|<img width="260" src="https://user-images.githubusercontent.com/44607643/103197681-dfabd800-4929-11eb-8271-d6cf4b8a1e81.png">|
+| :관광지 지역 선택 화면: | :관광지 시군구 선택 화면: | :관광지 종류 선택 화면: |   
 
 | 관광지 목록 조회 화면 | 관광지 개요 화면 | 관광지 정보 화면 |
 |-----------|-----------------|----------------|
